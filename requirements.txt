@@ -1,0 +1,8 @@
+# Generated from notebook imports - versions not pinned, install latest compatible
+matplotlib
+numpy
+pandas
+pillow
+scikit-learn
+seaborn
+tensorflow
